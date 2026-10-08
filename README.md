@@ -88,4 +88,12 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashsaluja210/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashsaluja210/DSA/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yashsaluja210/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
