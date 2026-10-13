@@ -83,6 +83,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsaluja210/DSA/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/yashsaluja210/DSA/tree/master/0048-rotate-image) |
 ## Prefix Sum
 |  |
@@ -91,10 +92,12 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsaluja210/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yashsaluja210/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashsaluja210/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/yashsaluja210/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/yashsaluja210/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
